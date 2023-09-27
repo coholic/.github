@@ -101,6 +101,14 @@
 - [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)
 - [[1차] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)
 
+**9주차**
+- [나이트의 이동](https://www.acmicpc.net/problem/7562)
+- [촌수계산](https://www.acmicpc.net/problem/2644)
+- [퇴사](https://www.acmicpc.net/problem/14501)
+- [스티커](https://www.acmicpc.net/problem/9465)
+- [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)
+- [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)
+
 ### CS
 
 **진행순서**
@@ -126,10 +134,16 @@
 - 락 (Lock)
 
 **3주차**  
-
+  
 **[ 운영체제 파트1 ]**
 - 운영체제란
 - 프로세스와 스레드
 - 프로세스 스케줄링
 - 프로세스 상태관리
 - 프로세스 동기화 (Process synchronization)
+
+**4주차**  
+  
+**[ 디자인패턴 파트1 ]**
+- 디자인패턴이란
+- 생성 패턴
