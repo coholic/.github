@@ -109,6 +109,14 @@
 - [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)
 - [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)
 
+**10주차**
+- [차이를 최대로](https://www.acmicpc.net/problem/10819)
+- [부등호](https://www.acmicpc.net/problem/2529)
+- [오르막 수](https://www.acmicpc.net/problem/11057)
+- [동전 1](https://www.acmicpc.net/problem/2293)
+- [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
+- [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)
+
 ### CS
 
 **진행순서**
@@ -147,3 +155,10 @@
 **[ 디자인패턴 파트1 ]**
 - 디자인패턴이란
 - 생성 패턴
+
+**5주차**  
+  
+**[ 네트워크 파트2 ]**
+- HTTP & HTTPS
+- Web Socket
+
