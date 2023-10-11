@@ -117,6 +117,14 @@
 - [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
 - [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)
 
+**11주차**
+- [스타트링크](https://www.acmicpc.net/problem/5014)
+- [뒤집기](https://www.acmicpc.net/problem/1439)
+- [그림](https://www.acmicpc.net/problem/1926)
+- [카드 정렬하기](https://www.acmicpc.net/problem/1715)
+- [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)
+- [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
+
 ### CS
 
 **진행순서**
@@ -161,4 +169,12 @@
 **[ 네트워크 파트2 ]**
 - HTTP & HTTPS
 - Web Socket
+
+**6주차**  
+  
+**[ 데이터베이스 파트1 ]**
+- Key
+- Join
+- SQL
+- SQL & NoSQL
 
