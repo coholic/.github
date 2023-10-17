@@ -125,6 +125,14 @@
 - [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)
 - [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
 
+**12주차**
+- [연구소](https://www.acmicpc.net/problem/14502)
+- [마인크래프트](https://www.acmicpc.net/problem/18111)
+- [제곱수의 합](https://www.acmicpc.net/problem/1699)
+- [동전 2](https://www.acmicpc.net/problem/2294)
+- [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)
+- [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
+
 ### CS
 
 **진행순서**
@@ -178,3 +186,8 @@
 - SQL
 - SQL & NoSQL
 
+**7주차**  
+  
+- 배열 (Array) & 연결 리스트 (LinkedList)
+- 스택 & 큐 (Stack & queue)
+- 해시 (Hash)
