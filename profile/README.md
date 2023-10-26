@@ -133,6 +133,14 @@
 - [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)
 - [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
 
+**13주차**
+- [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
+- [병사 배치하기](https://www.acmicpc.net/problem/18353)
+- [가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738)
+- [효율적인 해킹](https://www.acmicpc.net/problem/1325)
+- [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)
+- [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)
+
 ### CS
 
 **진행순서**
@@ -191,3 +199,11 @@
 - 배열 (Array) & 연결 리스트 (LinkedList)
 - 스택 & 큐 (Stack & queue)
 - 해시 (Hash)
+
+**8주차**  
+  
+- 인터럽트 (Interrupt)
+- 시스템 호출 (System Call)
+- PCB & Context Switching
+- Swapping
+- IPC (Inter Process Communication)
