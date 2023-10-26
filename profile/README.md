@@ -196,12 +196,14 @@
 
 **7주차**  
   
+**[ 자료구조 파트1 ]**
 - 배열 (Array) & 연결 리스트 (LinkedList)
 - 스택 & 큐 (Stack & queue)
 - 해시 (Hash)
 
 **8주차**  
   
+**[ 운영체제 파트2 ]**
 - 인터럽트 (Interrupt)
 - 시스템 호출 (System Call)
 - PCB & Context Switching
