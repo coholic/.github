@@ -141,6 +141,14 @@
 - [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)
 - [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)
 
+**14주차**
+- [배열 합치기](https://www.acmicpc.net/problem/11728)
+- [수들의 합 2](https://www.acmicpc.net/problem/2003)
+- [돌 게임](https://www.acmicpc.net/problem/9655)
+- [동물원](https://www.acmicpc.net/problem/1309)
+- [[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)
+- [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)
+
 ### CS
 
 **진행순서**
@@ -209,3 +217,8 @@
 - PCB & Context Switching
 - Swapping
 - IPC (Inter Process Communication)
+
+**9주차**  
+  
+**[ 디자인 패턴 파트2 ]**
+- 구조 패턴
