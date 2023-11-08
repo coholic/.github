@@ -149,6 +149,14 @@
 - [[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)
 - [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)
 
+**15주차**
+- [집합](https://www.acmicpc.net/problem/11723)
+- [음식물 피하기](https://www.acmicpc.net/problem/1743)
+- [막대기](https://www.acmicpc.net/problem/1094)
+- [숫자판 점프](https://www.acmicpc.net/problem/2210)
+- [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)
+- [[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)
+
 ### CS
 
 **진행순서**
@@ -222,3 +230,10 @@
   
 **[ 디자인 패턴 파트2 ]**
 - 구조 패턴
+
+**10주차**  
+
+**[ 네트워크 파트4 ]**  
+- VPC (Virtual Private Cloud Networking)
+- 로드 밸런싱 (Load Balancing)
+- 네트워크 구성 및 관리 (Network Configuration and Management)
