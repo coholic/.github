@@ -157,6 +157,14 @@
 - [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)
 - [[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)
 
+**16주차**
+- [이동하기](https://www.acmicpc.net/problem/11048)
+- [사탕 게임](https://www.acmicpc.net/problem/3085)
+- [내려가기](https://www.acmicpc.net/problem/2096)
+- [너의 평점은](https://www.acmicpc.net/problem/25206)
+- [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
+- [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
+
 ### CS
 
 **진행순서**
@@ -237,3 +245,11 @@
 - VPC (Virtual Private Cloud Networking)
 - 로드 밸런싱 (Load Balancing)
 - 네트워크 구성 및 관리 (Network Configuration and Management)
+
+**11주차**  
+  
+**[ 데이터베이스 파트4 ]**  
+- 대규모 데이터베이스 시스템 (Large-Scale Database Systems)
+- Replication vs Clustering
+- Partitioning & Sharding
+- Transaction
