@@ -165,6 +165,15 @@
 - [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
 - [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
 
+**17주차**
+- [단어 뒤집기 2](https://www.acmicpc.net/problem/17413)
+- [보물섬](https://www.acmicpc.net/problem/2589)
+- [치킨 배달](https://www.acmicpc.net/problem/15686)
+- [치즈](https://www.acmicpc.net/problem/2638)
+- [이전 순열](https://www.acmicpc.net/problem/10973)
+- [[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)
+- [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)
+
 ### CS
 
 **진행순서**
@@ -253,3 +262,8 @@
 - Replication vs Clustering
 - Partitioning & Sharding
 - Transaction
+
+**12주차**  
+  
+**[ 운영체제 파트3 ]**  
+- 메모리 관리
