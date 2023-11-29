@@ -174,6 +174,14 @@
 - [[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)
 - [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)
 
+**18주차**
+- [수 이어 쓰기 1](https://www.acmicpc.net/problem/1748)
+- [1로 만들기 2](https://www.acmicpc.net/problem/12852)
+- [상자넣기](https://www.acmicpc.net/problem/1965)
+- [참외밭](https://www.acmicpc.net/problem/2477)
+- [[3차] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)
+- [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
+
 ### CS
 
 **진행순서**
@@ -267,3 +275,12 @@
   
 **[ 운영체제 파트3 ]**  
 - 메모리 관리
+
+**13주차**  
+  
+**[ 자료구조 파트2 ]**  
+- Heap
+- Tree
+- Trie
+- Red-Black Tree
+- B-Tree & B+tree
