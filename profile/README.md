@@ -182,6 +182,15 @@
 - [[3차] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)
 - [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
 
+**19주차**
+- [카드1](https://www.acmicpc.net/problem/2161)
+- [스도쿠](https://www.acmicpc.net/problem/2239)
+- [인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139)
+- [빗물](https://www.acmicpc.net/problem/14719)
+- [블로그](https://www.acmicpc.net/problem/21921)
+- [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
+- [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)
+
 ### CS
 
 **진행순서**
