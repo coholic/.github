@@ -191,6 +191,14 @@
 - [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
 - [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)
 
+**20주차**
+- [미로 탐색](https://www.acmicpc.net/problem/2178)
+- [섬의 개수](https://www.acmicpc.net/problem/4963)
+- [모든 순열](https://www.acmicpc.net/problem/10974)
+- [외판원 순회 2](https://www.acmicpc.net/problem/10971)
+- [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)
+- [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)
+
 ### CS
 
 **진행순서**
@@ -293,3 +301,10 @@
 - Trie
 - Red-Black Tree
 - B-Tree & B+tree
+
+**14주차**  
+  
+**[ 네트워크 파트3 ]**
+- Cookie & Session & JWT
+- 대칭키 & 비대칭키 암호화
+- CORS
