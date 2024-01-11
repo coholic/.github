@@ -199,6 +199,14 @@
 - [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)
 - [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)
 
+**21주차**
+- [이항 계수 2](https://www.acmicpc.net/problem/11051)
+- [점프](https://www.acmicpc.net/problem/1890)
+- [N과 M (6)](https://www.acmicpc.net/problem/15655)
+- [도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961)
+- [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)
+- [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)
+
 ### CS
 
 **진행순서**
@@ -308,3 +316,11 @@
 - Cookie & Session & JWT
 - 대칭키 & 비대칭키 암호화
 - CORS
+
+**15주차**  
+  
+**[ 네트워크 파트5 ]**
+- 웹 동작 방식
+- Redirect & Forward
+- DNS
+- REST
