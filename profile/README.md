@@ -207,6 +207,14 @@
 - [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)
 - [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)
 
+**22주차**
+- [숨바꼭질](https://www.acmicpc.net/problem/1697)
+- [양](https://www.acmicpc.net/problem/3184)
+- [N과 M (7)](https://www.acmicpc.net/problem/15656)
+- [카드 놓기](https://www.acmicpc.net/problem/5568)
+- [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905)
+- [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)
+
 ### CS
 
 **진행순서**
@@ -324,3 +332,12 @@
 - Redirect & Forward
 - DNS
 - REST
+
+**16주차**
+
+**[ 데이터베이스 파트4 ]**
+- 데이터베이스 성능 최적화
+- Index
+- Optimizer
+- ORM
+- Connection Pool
