@@ -215,6 +215,14 @@
 - [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905)
 - [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)
 
+**23주차**
+- [가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055)
+- [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)
+- [주사위 굴리기](https://www.acmicpc.net/problem/14499)
+- [요세푸스 문제](https://www.acmicpc.net/problem/1158)
+- [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)
+- [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)
+
 ### CS
 
 **진행순서**
@@ -340,4 +348,9 @@
 - Index
 - Optimizer
 - ORM
-- Connection Pool
+
+**17주차**
+  
+**[ 운영체제 파트4 ]**  
+- File System
+- 입출력 관리
