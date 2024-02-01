@@ -223,6 +223,14 @@
 - [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)
 - [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)
 
+**24주차**
+- [용돈 관리](https://www.acmicpc.net/problem/6236)
+- [입국심사](https://www.acmicpc.net/problem/3079)
+- [쉬운 최단거리](https://www.acmicpc.net/problem/14940)
+- [노드사이의 거리](https://www.acmicpc.net/problem/1240)
+- [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)
+- [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)
+
 ### CS
 
 **진행순서**
@@ -354,3 +362,10 @@
 **[ 운영체제 파트4 ]**  
 - File System
 - 입출력 관리
+
+**18주차**
+  
+**[ 디자인패턴 파트3 ]**  
+- 행동 패턴
+- SOLID & GRASP
+- MVC1 & MVC2
