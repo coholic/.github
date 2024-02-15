@@ -16,9 +16,9 @@
 - 정보 공유
 
 ## 📕 방식
-- 매 주 1회 알고리즘 비대면 + CS 대면 스터디 진행
+- 매주 1회 알고리즘 + CS 비대면 스터디 진행
 - 알고리즘은 [백준](https://www.acmicpc.net/), [프로그래머스](https://programmers.co.kr/) 등으로 진행
-- CS는 Notion에 정리한 후, 예상 질문 & 답변 만들기 및 개념 설명
+- CS는 Notion에 정리한 후, 예상 질문 & 답변 만들기
 - 최종 목표는 Notion에 정리한 내용을 완벽하게 숙지한 뒤, 이를 바탕으로 블로그 포스팅
 
 ## 🏫 장소
@@ -27,8 +27,7 @@
 - Discord
 
 ## ⌚ 시간
-- 화요일 17:00 CS
-- 수요일 21:00 알고리즘
+- 매주 화요일 20:00
 
 ## 💣 패널티
 - 누가 봐도 아예 풀지 않았을 경우
@@ -231,18 +230,28 @@
 - [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)
 - [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)
 
+**25주차**
+- [과자 나눠주기](https://www.acmicpc.net/problem/16401)
+- [정수 제곱근](https://www.acmicpc.net/problem/2417)
+- [N과 M (10)](https://www.acmicpc.net/problem/15664)
+- [ABCDE](https://www.acmicpc.net/problem/13023)
+- [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)
+- [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)
+
 ### CS
 
-**진행순서**
+**과목**
 1. 네트워크
 2. 데이터베이스
 3. 운영체제
 4. 디자인패턴
 5. 자료구조
+6. Java
+7. Spring
 
 **1주차**  
   
-**[ 네트워크 파트1 ]**
+**[ 네트워크 Part1 ]**
 - OSI 7계층
 - [TCP] 3 way handshake & 4 way handshake
 - TCP/IP (흐름제어/혼잡제어) & UDP
@@ -250,14 +259,14 @@
 
 **2주차**  
   
-**[ 데이터베이스 파트2 ]**
+**[ 데이터베이스 Part2 ]**
 - 정규화 (Normalization) & 반정규화
 - 이상 (Anomaly)
 - 락 (Lock)
 
 **3주차**  
   
-**[ 운영체제 파트1 ]**
+**[ 운영체제 Part1 ]**
 - 운영체제란
 - 프로세스와 스레드
 - 프로세스 스케줄링
@@ -266,19 +275,19 @@
 
 **4주차**  
   
-**[ 디자인패턴 파트1 ]**
+**[ 디자인패턴 Part1 ]**
 - 디자인패턴이란
 - 생성 패턴
 
 **5주차**  
   
-**[ 네트워크 파트2 ]**
+**[ 네트워크 Part2 ]**
 - HTTP & HTTPS
 - Web Socket
 
 **6주차**  
   
-**[ 데이터베이스 파트1 ]**
+**[ 데이터베이스 Part1 ]**
 - Key
 - Join
 - SQL
@@ -286,14 +295,14 @@
 
 **7주차**  
   
-**[ 자료구조 파트1 ]**
+**[ 자료구조 Part1 ]**
 - 배열 (Array) & 연결 리스트 (LinkedList)
 - 스택 & 큐 (Stack & queue)
 - 해시 (Hash)
 
 **8주차**  
   
-**[ 운영체제 파트2 ]**
+**[ 운영체제 Part2 ]**
 - 인터럽트 (Interrupt)
 - 시스템 호출 (System Call)
 - PCB & Context Switching
@@ -302,19 +311,19 @@
 
 **9주차**  
   
-**[ 디자인 패턴 파트2 ]**
+**[ 디자인 패턴 Part2 ]**
 - 구조 패턴
 
 **10주차**  
 
-**[ 네트워크 파트4 ]**  
+**[ 네트워크 Part4 ]**  
 - VPC (Virtual Private Cloud Networking)
 - 로드 밸런싱 (Load Balancing)
 - 네트워크 구성 및 관리 (Network Configuration and Management)
 
 **11주차**  
   
-**[ 데이터베이스 파트4 ]**  
+**[ 데이터베이스 Part4 ]**  
 - 대규모 데이터베이스 시스템 (Large-Scale Database Systems)
 - Replication vs Clustering
 - Partitioning & Sharding
@@ -322,12 +331,12 @@
 
 **12주차**  
   
-**[ 운영체제 파트3 ]**  
+**[ 운영체제 Part3 ]**  
 - 메모리 관리
 
 **13주차**  
   
-**[ 자료구조 파트2 ]**  
+**[ 자료구조 Part2 ]**  
 - Heap
 - Tree
 - Trie
@@ -336,14 +345,14 @@
 
 **14주차**  
   
-**[ 네트워크 파트3 ]**
+**[ 네트워크 Part3 ]**
 - Cookie & Session & JWT
 - 대칭키 & 비대칭키 암호화
 - CORS
 
 **15주차**  
   
-**[ 네트워크 파트5 ]**
+**[ 네트워크 Part5 ]**
 - 웹 동작 방식
 - Redirect & Forward
 - DNS
@@ -351,7 +360,7 @@
 
 **16주차**
 
-**[ 데이터베이스 파트4 ]**
+**[ 데이터베이스 Part4 ]**
 - 데이터베이스 성능 최적화
 - Index
 - Optimizer
@@ -359,13 +368,19 @@
 
 **17주차**
   
-**[ 운영체제 파트4 ]**  
+**[ 운영체제 Part4 ]**  
 - File System
 - 입출력 관리
 
 **18주차**
   
-**[ 디자인패턴 파트3 ]**  
+**[ 디자인패턴 Part3 ]**  
 - 행동 패턴
 - SOLID & GRASP
 - MVC1 & MVC2
+
+**19주차**
+  
+**[ Java Part1 ]**  
+- Data type
+- Type casting
