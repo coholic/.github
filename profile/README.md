@@ -392,3 +392,9 @@
 **[ Java Part1 ]**  
 - Data type
 - Type casting
+
+**20주차**
+
+**[ Java Part2 ]**  
+- Abstract Class
+- Interface
