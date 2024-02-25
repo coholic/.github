@@ -238,6 +238,14 @@
 - [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)
 - [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)
 
+**26주차**
+- [합분해](https://www.acmicpc.net/problem/2225)
+- [거스름돈](https://www.acmicpc.net/problem/14916)
+- [인구 이동](https://www.acmicpc.net/problem/16234)
+- [헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736)
+- [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
+- [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)
+
 ### CS
 
 **과목**
