@@ -246,6 +246,14 @@
 - [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
 - [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)
 
+**27주차**
+- [한 줄로 서기](https://www.acmicpc.net/problem/1138)
+- [행렬](https://www.acmicpc.net/problem/1080)
+- [카드 합체 놀이](https://www.acmicpc.net/problem/15903)
+- [안테나](https://www.acmicpc.net/problem/18310)
+- [사다리 조작](https://www.acmicpc.net/problem/15684)
+- [캐슬 디펜스](https://www.acmicpc.net/problem/17135)
+
 ### CS
 
 **과목**
@@ -398,3 +406,11 @@
 **[ Java Part2 ]**  
 - Abstract Class
 - Interface
+
+**21주차**
+
+**[ Java Part3 ]**  
+- String
+- StringBuffer, StringBuilder
+- Anonymous Class
+- Inner Class
