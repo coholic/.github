@@ -254,6 +254,14 @@
 - [사다리 조작](https://www.acmicpc.net/problem/15684)
 - [캐슬 디펜스](https://www.acmicpc.net/problem/17135)
 
+**28주차**
+- [숫자 정사각형](https://www.acmicpc.net/problem/1051)
+- [숫자 야구](https://www.acmicpc.net/problem/2503)
+- [연산자 끼워넣기 (2)](https://www.acmicpc.net/problem/15658)
+- [에너지 모으기](https://www.acmicpc.net/problem/16198)
+- [톱니바퀴](https://www.acmicpc.net/problem/14891)
+- [상어 초등학교](https://www.acmicpc.net/problem/21608)
+
 ### CS
 
 **과목**
@@ -414,3 +422,11 @@
 - StringBuffer, StringBuilder
 - Anonymous Class
 - Inner Class
+
+**22주차**
+
+**[ Java Part4 ]**  
+- Equals & HashCode
+- Error & Exception
+- CheckedException & Transaction
+- Try ~ Catch
