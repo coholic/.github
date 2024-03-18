@@ -262,6 +262,12 @@
 - [톱니바퀴](https://www.acmicpc.net/problem/14891)
 - [상어 초등학교](https://www.acmicpc.net/problem/21608)
 
+**29주차**
+- [빙산](https://www.acmicpc.net/problem/2573)
+- [경사로](https://www.acmicpc.net/problem/14890)
+- [타일 채우기](https://www.acmicpc.net/problem/2133)
+- [Four Squares](https://www.acmicpc.net/problem/17626)
+
 ### CS
 
 **과목**
@@ -430,3 +436,11 @@
 - Error & Exception
 - CheckedException & Transaction
 - Try ~ Catch
+
+**23주차**
+
+**[ Java Part5 ]**
+- 정규식
+- Enum Class
+- Reflection API
+
